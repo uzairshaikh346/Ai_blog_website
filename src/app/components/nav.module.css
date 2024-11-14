@@ -1,0 +1,24 @@
+.header{
+    background-color: #1F1F1F;
+    display: flex;
+    justify-content: end;
+    height: 60px;
+    align-items: center;
+}
+.link{
+    color: #E0E0E0;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 20px;
+}
+.link:hover{
+    position: relative;
+    bottom: 3px;
+    border-bottom: 2px white solid;
+    color: #BB86FC;
+}
+.ul{
+    list-style: none;
+    display: flex;
+
+}

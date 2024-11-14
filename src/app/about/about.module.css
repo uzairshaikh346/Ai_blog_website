@@ -1,0 +1,28 @@
+.heading{
+    color: #FFFFFF;
+     margin-bottom: 10px;
+}
+.text{
+    color: #E0E0E0;
+    margin-bottom: 50px;
+}
+.hero{
+    padding: 70px;
+}
+.section{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.section:hover{
+    box-shadow: 0px 0px 10px 1px white;
+}
+
+.image{
+    margin-right: 10px;
+}
+
+.textarea{
+    padding: 50px;
+    justify-content: center;
+}
